@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArMazeGame", "Assembly-CSharp.csproj", "{A7EC4DA4-4541-FCD2-11D9-1772FD531CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArMazeGame", "Assembly-CSharp-Editor.csproj", "{61A96012-5326-8213-2491-370885038540}"
+EndProject
+Project("{A6B62EFD-3177-CFC2-A642-A17652DA628B}") = "ArMazeGame", "Assembly-UnityScript-Editor-firstpass.unityproj", "{582B2EBA-A031-2EC4-AAD4-C13D558599D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EC4DA4-4541-FCD2-11D9-1772FD531CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EC4DA4-4541-FCD2-11D9-1772FD531CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EC4DA4-4541-FCD2-11D9-1772FD531CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EC4DA4-4541-FCD2-11D9-1772FD531CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A96012-5326-8213-2491-370885038540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A96012-5326-8213-2491-370885038540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A96012-5326-8213-2491-370885038540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A96012-5326-8213-2491-370885038540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582B2EBA-A031-2EC4-AAD4-C13D558599D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582B2EBA-A031-2EC4-AAD4-C13D558599D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582B2EBA-A031-2EC4-AAD4-C13D558599D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582B2EBA-A031-2EC4-AAD4-C13D558599D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
